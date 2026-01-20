@@ -19,7 +19,7 @@ This project implements a sentiment analysis model for movie reviews using a Sim
 
 ### Prerequisites
 
-- Python 3.70 or higher
+- Python 3.7 or higher than this
 - pip (Python package installer)
 
 ### Installation
